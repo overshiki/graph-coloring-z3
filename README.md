@@ -12,6 +12,7 @@ G := \{V_i \in \mathcal{V}, E_{ij} \in \mathcal{E} \}
 $$
 
 and its corresponding set of colors
+
 $$
 C := \{C_c \in \mathcal{C}\}
 $$
